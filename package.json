@@ -11,7 +11,7 @@
     "url": "https://github.com/scotttesler/nand2tetris-assembler/issues"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "logurt": "^3.0.0"
   },
   "description": "Assembler for the Nand2Tetris Coursera class.",
