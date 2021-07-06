@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "logurt": "^3.0.0"
+    "logurt": "^4.0.5"
   },
   "description": "Assembler for the Nand2Tetris Coursera class.",
   "homepage": "https://github.com/scotttesler/nand2tetris-assembler#readme",

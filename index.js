@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-const fs = require("fs");
 const Assembler = require("./src/assembler");
 const Log = require("logurt");
 
